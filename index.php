@@ -12,9 +12,10 @@
 
   <?php
   $nama ='ARIESSA QASANDRA';
-  $umur = 20;
+  $umur = 19 + 1;
 
   echo '<p>Nama\' Kamu $nama</p>';
+
   echo '<br>';
   echo " Nama\" Kamu $nama";
 
